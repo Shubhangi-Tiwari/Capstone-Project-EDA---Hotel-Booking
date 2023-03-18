@@ -32,14 +32,25 @@ Coorelation Heatmap
 # Conclusion
 
 The conclusion For this Hotel Booking Dataset are as follows:
+
 1.City Hotel are preferred more as compare to Resort Hotels, about 66.4% of bookig is of City Hotel & only 33.6% is of Resort Hotel
-2.City Hoel are more prone for cancellation of bookings as compare to resort hotel.
+
+2.City Hotel are more prone for cancellation of bookings as compare to resort hotel.
+
 3.Number of Repeated guests are less in both hotels.
+
 4.Transient, Group,Transient-party & Contract ae the four types of customer making booking for hotels.
+
 5.TA/TO is the most preferred distribution channel wile making bookings.
+
 6.The most preferred meal is BB, followed by HB,SC. The other two least referred meals are FB & Undefined.
+
 7.For both Resort and City hotels, No Deposit type is most preferred by ustomer for making bookings.
+
 8.Agent 9 made the most bookings
+
 9.Most of the bookings for both hotels were done in year 2016.
+
 10.July-August made the most of the booking througout the year. 
+
 
