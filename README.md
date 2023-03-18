@@ -17,35 +17,29 @@ The provided Dataset is of Hotel Booking which consists detail of Hotel booking 
 
 # Graphs Used & Analytics
 As soon as Data Cleaning is completed, further analysis is performed on cleaned data. While analyzing data, we obtain some important insights like which hotel was booked the most? From which country most of the bookings done? and many more insights. Data visualization, in general makes complex data easy to understand and get significant insights from that entire dataset, so we used visualization which gave lots of insights of dataset, many questions were answered using graphs and visual plots. The graphs and visual plots used in this project are as follows:
-
 Bar plot
+
 Pie chart
+
 Box plot
+
 Pair Plot
+
 Line Chart
+
 Coorelation Heatmap
 
 # Conclusion
 
 The conclusion For this Hotel Booking Dataset are as follows:
-
 1.City Hotel are preferred more as compare to Resort Hotels, about 66.4% of bookig is of City Hotel & only 33.6% is of Resort Hotel
-
 2.City Hoel are more prone for cancellation of bookings as compare to resort hotel.
-
 3.Number of Repeated guests are less in both hotels.
-
 4.Transient, Group,Transient-party & Contract ae the four types of customer making booking for hotels.
-
 5.TA/TO is the most preferred distribution channel wile making bookings.
-
 6.The most preferred meal is BB, followed by HB,SC. The other two least referred meals are FB & Undefined.
-
 7.For both Resort and City hotels, No Deposit type is most preferred by ustomer for making bookings.
-
 8.Agent 9 made the most bookings
-
 9.Most of the bookings for both hotels were done in year 2016.
-
 10.July-August made the most of the booking througout the year. 
 
