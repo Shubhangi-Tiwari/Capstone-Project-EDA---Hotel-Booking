@@ -119,7 +119,11 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 
 
-***EDA answered following question about hotel booking:***
+
+
+**EDA answered following question about hotel booking:
+**
+
 
 
 
