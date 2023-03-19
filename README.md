@@ -116,20 +116,34 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 EDA answered following question about hotel booking:
 
-1.From which country most of the bookings were done?/n
+1.From which country most of the bookings were done?
+
 2.Which hotel have the most of the repeat guest?
+
 3.Which hotel bookings has higher cancellation rate?
+
 4.How many types of customer are there while booking for hotel?
+
 5.How many options are there while booking a hotel? Which one is booked the most?
+
 6.From which market segment booking was done?
+
 7.Which distribution chanels is most used by customer while booking hotel?
+
 8.Which is the most ordered/served meal in hotels?
+
 9.Which deposit type was most preferred by the customers for hotel booking?
+
 10.Through which agent most of the bookings were done?
+
 11.In which year most of the customes arrived in both hotel?
+
 12.In which of the month most of the custromers arrived?Which is the least favourable month for customers to visit hotel?
+
 13.In which hotel most the customers arrived?
+
 14.Which age group is most likely to book hotel?
+
 15.
 
 # Conclusion
