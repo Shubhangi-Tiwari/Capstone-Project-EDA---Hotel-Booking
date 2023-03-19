@@ -7,7 +7,7 @@ Provided with Hotel Booking dataset, main objective is to do some analysis and f
 
 *Hotel Booking Data Analysis*
 
-Hotel business is a very competitive market, as there are many new competitors it become important for us to work on different strategies to improve market value and booking of hotel. In the same way, it becomes tough for customers to select a hotel to book as different customer have different requirement while booking hotel. The very first step for business owner towards improvement is analyzing data of our own business to find loopholes and work on various factors to improve booking of hotel.This data can also help customer to find answer of various question wie booking hotels, ike when is the best tme of year to book a hotel? Or the optimal length of stay in order to get the best daily rate? This hotel dataset can help explore those questions!
+Hotel business is a very competitive market, as there are many new competitors it becomes tough for customers to select a hotel for booking as different customer have different requirement while booking hotel. The very first step for business owner towards improvement is analyzing data of our own business to find loopholes and work on various factors to improve booking of hotel.This data can also help customer to find answer of various question wie booking hotels, ike when is the best tme of year to book a hotel? Or the optimal length of stay in order to get the best daily rate? This hotel dataset can help explore those questions!
 
 The provided dataset of hotel booking contains booking information for a city hotel and a resort hotel,includes information such as when the booking was made, length of stay, number of adults,children & babies, and the number of available parking spaces, country, customer types, market segment, distribution channels and many more factors. This data will help to understand which factors effect most of the hotel booking. Analyzing this data based on such factors give clear insights about bookings and help customers to do booking accordingly. We can get various information about booking such as when most hotel bookings were done? From which country most booking were done? Booking based on age group and many more things that will help to draw conclusion what things mst be considered while booking a hotel.
 
@@ -84,14 +84,16 @@ Following are the details of all columns present in dataset:
 
 # Graphs Used & Analytics
 
-1.Handling Null Values
+1.Handling Null & Duplicate Values
 
 * Null values in children,agent & company columns were replace by 0.
 * Null values in country were replaced by NA.
+* All duplicate rows were removed.
 
 2.Converting Datatypes
 
 * Converted column children,agent & agent to int type.
+* Converted column reservation_status_date to datetime data type
 
 3.Creating New columns
 
@@ -114,7 +116,7 @@ Coorelation Heatmap
 
 For this visualization mainly seaborn & matplotlib library were used.
 
-EDA answered following question about hotel booking:
+***EDA answered following question about hotel booking:***
 
 1.From which country most of the bookings were done?
 
