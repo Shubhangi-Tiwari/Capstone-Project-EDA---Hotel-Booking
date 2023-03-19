@@ -154,7 +154,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 14.Which age group is most likely to book hotel?
 
-15.How many people preferred to stay in hotels?
+15.How long people preferred to stay in hotels?
 
 # Conclusion
 
