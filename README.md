@@ -85,15 +85,18 @@ Following are the details of all columns present in dataset:
 # Graphs Used & Analytics
 
 1.Handling Null Values
-Null values in children,agent & company columns were replace by 0.
-Null values in country were replaced by NA.
+
+* Null values in children,agent & company columns were replace by 0.
+* Null values in country were replaced by NA.
 
 2.Converting Datatypes
-Converted column children,agent & agent to int type.
+
+* Converted column children,agent & agent to int type.
 
 3.Creating New columns
-Created new column total_stay by joining stay_in_week_night & stay_weekend_night
-Created new column total_guest by adding children, adults and babies column.
+
+* Created new column total_stay by joining stay_in_week_night & stay_weekend_night
+* Created new column total_guest by adding children, adults and babies column.
 
 While analyzing data, we obtain some important insights like which hotel was booked the most? From which country most of the bookings done? and many more insights. Data visualization, in general makes complex data easy to understand and get significant insights from that entire dataset, so we used visualization which gave lots of insights of dataset, many questions were answered using graphs and visual plots. The graphs and visual plots used in this project are as follows:
 
@@ -113,7 +116,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 EDA answered following question about hotel booking:
 
-1.From which country most of the bookings were done?
+1.From which country most of the bookings were done?/n
 2.Which hotel have the most of the repeat guest?
 3.Which hotel bookings has higher cancellation rate?
 4.How many types of customer are there while booking for hotel?
