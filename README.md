@@ -156,6 +156,8 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 15.How long people preferred to stay in hotels?
 
+16.Which room is most preferred by customers while making bookings?
+
 # Conclusion
 
 The conclusion For this Hotel Booking Dataset are as follows:
