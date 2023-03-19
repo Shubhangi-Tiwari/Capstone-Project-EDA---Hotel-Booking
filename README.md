@@ -121,8 +121,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 
 
-**EDA answered following question about hotel booking:
-**
+# EDA answered following question about hotel booking
 
 
 
@@ -137,25 +136,25 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 5.How many options are there while booking a hotel? Which one is booked the most?
 
-6.From which market segment booking was done?
+6.From which market segment most of the booking was done?
 
-7.Which distribution chanels is most used by customer while booking hotel?
+7.Which distribution channel is most used by customer while booking hotel?
 
-8.Which is the most ordered/served meal in hotels?
+8.Which is the most ordered/served/liked meal in hotels?
 
 9.Which deposit type was most preferred by the customers for hotel booking?
 
 10.Through which agent most of the bookings were done?
 
-11.In which year most of the customes arrived in both hotel?
+11.In which year most of the customers arrived in both hotel?
 
-12.In which of the month most of the custromers arrived?Which is the least favourable month for customers to visit hotel?
+12.In which of the month most of the custromers arrived? Which is the least favourable month for customers to visit hotel?
 
 13.In which hotel most the customers arrived?
 
 14.Which age group is most likely to book hotel?
 
-15.
+15.How many people preferred to stay in hotels?
 
 # Conclusion
 
@@ -165,7 +164,7 @@ The conclusion For this Hotel Booking Dataset are as follows:
 
 2.City Hotel are more prone for cancellation of bookings as compare to resort hotel.
 
-3.Number of Repeated guests are less in both hotels.
+3.Number of Repeated guests are less in both hotels but number of repeat guest is slightly higher in Resort hotel as compare to City Hotel.
 
 4.Transient, Group,Transient-party & Contract ae the four types of customer making booking for hotels.
 
@@ -179,6 +178,8 @@ The conclusion For this Hotel Booking Dataset are as follows:
 
 9.Most of the bookings for both hotels were done in year 2016.
 
-10.July-August made the most of the booking througout the year. 
+10.July-August made the most of the booking throughout the year. 
+
+11.Most of the bookings were done by couple(i.e. maximum of two adults)
 
 
