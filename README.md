@@ -116,7 +116,8 @@ Coorelation Heatmap
 
 For this visualization mainly seaborn & matplotlib library were used.
 
-***EDA answered following question about hotel booking:***
+
+*EDA answered following question about hotel booking:
 
 1.From which country most of the bookings were done?
 
