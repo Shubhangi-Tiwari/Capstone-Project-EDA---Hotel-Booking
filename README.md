@@ -150,7 +150,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 12.In which of the month most of the custromers arrived? Which is the least favourable month for customers to visit hotel?
 
-13.In which hotel most the customers arrived?
+13.Which factor affect ADR of hotel? At which time of month ADR is maximum?
 
 14.Which age group is most likely to book hotel?
 
@@ -160,28 +160,33 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 # Conclusion
 
-The conclusion For this Hotel Booking Dataset are as follows:
+The conclusion drawn after data analysis are as follows:
 
-1.City Hotel are preferred more as compare to Resort Hotels, about 66.4% of bookig is of City Hotel & only 33.6% is of Resort Hotel
+1.Booking were made from different country, but most of the booking were made by Portugal country.
 
-2.City Hotel are more prone for cancellation of bookings as compare to resort hotel.
+2.Most of the boooking were made of City Hotel which is about 61.1% whereas Resort hotel booking was only 38.9% that gives an idea that most people prefer City Hotels.
 
-3.Number of Repeated guests are less in both hotels but number of repeat guest is slightly higher in Resort hotel as compare to City Hotel.
+3.Number of repeated guests are way less than total guests, Resort hotel have slightly high number of repeated guest as compare to City Hotels but overall repeated guests in both hotels are less.
 
-4.Transient, Group,Transient-party & Contract ae the four types of customer making booking for hotels.
+4.Most of the bookings were done in month of July-August, means this months are the businest or profitable months for hotel business.
 
-5.TA/TO is the most preferred distribution channel wile making bookings.
+5.Most of the ordered/served/famous meal is BB(Bed & Breakfast),so need to work on quality and need to work on other dishes as well.
 
-6.The most preferred meal is BB, followed by HB,SC. The other two least referred meals are FB & Undefined.
+6.Most of the reserved room was A, so need to increase type A room also need to work on other type of room as well.
 
-7.For both Resort and City hotels, No Deposit type is most preferred by ustomer for making bookings.
+7.Most arriving customers are couple(mostly 2 adults) so need to work on other age group as well like children.
 
-8.Agent 9 made the most bookings
+8.Most cancellation of bookings is seen in City Hotel.
 
-9.Most of the bookings for both hotels were done in year 2016.
+9.There are in total 4 types of Customers, from which Transient type of customers are 82.4% followed by Transient-Party which is 13.4% and other two type Group with 0.6% and Contract 3.6%
 
-10.July-August made the most of the booking throughout the year. 
+10.There are total 8 types of market segment but most preferred market segment by customer is Online TA.
 
-11.Most of the bookings were done by couple(i.e. maximum of two adults)
+11.TA/TO is the most preferred distribution channel by customer compare to other channels.
 
+12.Most of the bookings are done through Agent 9.
+
+13.Most of the Customers prefer to stay maximum 4 days in hotels, more than 4 days are preferred by very less customers.
+
+14.ADR tends to increase with number of customers arrived per month, also it is seen that ADR increases at end of month.
 
