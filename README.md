@@ -87,7 +87,7 @@ Following are the details of all columns present in dataset:
 1.Handling Null & Duplicate Values
 
 * Null values in children,agent & company columns were replace by 0.
-* Null values in country were replaced by NA.
+* Null values in country were replaced by not specified.
 * All duplicate rows were removed.
 
 2.Converting Datatypes
