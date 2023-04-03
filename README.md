@@ -190,5 +190,5 @@ The conclusion drawn after data analysis are as follows:
 
 14.ADR tends to increase with number of customers arrived per month, also it is seen that ADR increases at end of month.
 
-15.Cancellation is not directly related ADR or assigned room that means ADR and assigned room dont have any affect directly on cancellation of hotels.
+15.Cancellation is not directly related to any factors as different view gives an idea that there is no direct trend of cancellation.
 
