@@ -128,7 +128,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 1.From which country most of the bookings were done?
 
-2.Which hotel have the most of the repeat guest?
+2.Which hotel have more number of repeat guest?
 
 3.Which hotel bookings has higher cancellation rate?
 
@@ -148,7 +148,7 @@ For this visualization mainly seaborn & matplotlib library were used.
 
 11.In which year most of the customers arrived in both hotel?
 
-12.In which of the month most of the custromers arrived? Which is the least favourable month for customers to visit hotel?
+12.In which of the month most of the customers arrived? Which is the least favourable month for customers to visit hotel?
 
 13.Which factor affect ADR of hotel? At which time of month ADR is maximum?
 
@@ -189,4 +189,6 @@ The conclusion drawn after data analysis are as follows:
 13.Most of the Customers prefer to stay maximum 4 days in hotels, more than 4 days are preferred by very less customers.
 
 14.ADR tends to increase with number of customers arrived per month, also it is seen that ADR increases at end of month.
+
+15.Cancellation is not directly related ADR or assigned room that means ADR and assigned room dont have any affect directly on cancellation of hotels.
 
